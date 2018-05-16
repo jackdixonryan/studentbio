@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #efeee7;
+    font-family: "Georgia", Times New Roman, Times, serif;
+    color: #333333;
+}
+
+.a {
+    float: left;
+    width: 70%;
+}
+
+.a p {
+    padding: 3%;
+    line-height: 30px;
+}
+
+.a h2 {
+    padding: 3%;
+}
+
+.b {
+    float: left;
+    width: 30%;
+}
+
+.b h2 {
+    text-align: center;
+    padding: 3%;
+}
+
+.b ul {
+    float: right;
+    padding: 3%;
+}
+
+header {
+    text-align: center;
+    color: #eee;
+    background-color: #333333;
+    font-size: 15px;
+    width: auto;
+    padding: 1px;
+}
+
+img {
+    display: inline;
+    width: 200px;
+    float: left;
+    padding: 3%;
+}
+
+a {
+    color: #d21034;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
